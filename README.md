@@ -38,11 +38,11 @@
 
 ### 💼 Currently Working On
 - 🤖 **AI-powered applications**
-- 🌐 **Full-Stack Web Development**
 - 📊 **Machine Learning & Deep Learning**
+- 🌐 **Full-Stack Web Development**
 
 ### 🌱 Learning & Growing
-- 📈 Kaggle courses (Python, Pandas, Data Viz)
+- 📈 NVIDIA Courses
 - 🧠 Advanced ML algorithms
 - ☁️ Cloud technologies
 
@@ -55,8 +55,8 @@
 - 🔬 Research & Innovation
 
 ### 🛠️ Tech Stack Highlights
-- ⚛️ React, Next.js, Angular
-- 🍃 Spring Boot, Flask
+- ⚛️ Angular
+- 🍃 Spring Boot, Flask, Django
 - 🧮 TensorFlow, PyTorch
 
 </td>
@@ -69,9 +69,8 @@
   
 ### 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-maher.bouchrara0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maher.bouchrara0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-maherbouchrara.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maherbouchrara.me)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192868129a105eafb)
+[![Email](https://img.shields.io/badge/Email-maher.bouchrara0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maherayachi0@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maher-bouchrara-35b91122b/)
 
 </div>
@@ -85,12 +84,12 @@
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,dotnet,java,python,php,cpp" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=spring,flask,dotnet,java,python,php,cpp,c#" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -100,7 +99,7 @@
 
 ### 🤖 AI/ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,opencv" alt="AI/ML Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,opencv,seaborn" alt="AI/ML Skills" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="kaggle" />
@@ -108,7 +107,7 @@
 
 ### 🛠️ Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,electron,npm,raspberrypi" alt="Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,electron,npm" alt="Dev Tools" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira" />
 </p>
 
