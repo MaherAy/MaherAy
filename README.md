@@ -17,7 +17,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center" width="80%">
-Software engineering student (ISI Ariana) specializing in <b>agentic and generative AI systems</b>: hybrid RAG pipelines, LangGraph agents orchestrating specialized tools, and LLM-as-Judge evaluation. Currently building generative AI pipelines in production at <b>Ad'Ministral (Talan)</b>. Looking for a 6-month end-of-studies internship (PFE) in applied LLM agents and end-to-end generative AI systems.
+Software engineering student (ISI Ariana) specializing in <b>agentic and generative AI systems</b>: hybrid RAG pipelines, LangGraph agents orchestrating specialized tools, and LLM-as-Judge evaluation. Currently building generative AI pipelines in production at <b>Ad'Ministral (Talan Tunisie)</b>. Looking for a 6-month end-of-studies internship (PFE) in applied LLM agents and end-to-end generative AI systems.
 </p>
 
 <table align="center" width="90%">
