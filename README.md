@@ -1,63 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Maher%20Ayachi&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&color=gradient&animation=fadeIn"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Maher%20Ayachi&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Ing%C3%A9nieur%20Logiciel%20%7C%20Agentic%20%26%20Generative%20AI&descSize=18&descAlignY=55&color=gradient&animation=fadeIn" />
 </div>
-
-<div align="center">
-  <img height="180" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
-</div>
-
-<br>
-
-
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎓_Software_Engineering_Student-ISI_Ariana-blue?style=for-the-badge" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📍_Location-Tunisia-green?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=650&lines=LangGraph+%26+ReAct+Agents;RAG+Pipelines+(hybrid%2C+multimodal);LLM-as-Judge+Evaluation;Looking+for+a+PFE+(end-of-studies+internship)" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_Software_Engineering_Student-ISI_Ariana-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Location-Tunisia-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔎_Seeking-PFE_/_End--of--Studies_Internship-orange?style=for-the-badge" />
+</div>
 
 <br>
 
-<table align="center">
+<h2 align="center">👋 About Me</h2>
+
+<p align="center" width="80%">
+Software engineering student (ISI Ariana) specializing in <b>agentic and generative AI systems</b>: hybrid RAG pipelines, LangGraph agents orchestrating specialized tools, and LLM-as-Judge evaluation. Currently building generative AI pipelines in production at <b>Ad'Ministral (Talan)</b>. Looking for a 6-month end-of-studies internship (PFE) in applied LLM agents and end-to-end generative AI systems.
+</p>
+
+<table align="center" width="90%">
 <tr>
 <td valign="top" width="50%">
 
-### 💼 Currently Working On
-- 🤖 **AI-powered applications**
-- 📊 **Machine Learning & Deep Learning**
-- 🌐 **Full-Stack Web Development**
-
-### 🌱 Learning & Growing
-- 📈 NVIDIA Courses
-- 🧠 Advanced ML algorithms
-- ☁️ Cloud technologies
+### 💼 Currently
+- 🤖 Generative AI pipeline for citizen case processing — Ad'Ministral (Talan)
+- 🗣️ Multichannel RAG agent (web + WhatsApp) with local voice pipeline
+- 🎓 Engineering degree, AI & Data specialization — ISI Ariana
 
 </td>
 <td valign="top" width="50%">
 
-### 🎯 Collaboration Interests
-- 🤝 AI/ML projects
-- 💻 Full-Stack Development
-- 🔬 Research & Innovation
-
-### 🛠️ Tech Stack Highlights
-- ⚛️ Angular
-- 🍃 Spring Boot, Flask, Django
-- 🧮 TensorFlow, PyTorch
+### 🎯 Open To
+- 🤝 Applied LLM agents / agentic AI internships
+- 🔬 RAG, tool-use agents, LLM evaluation
+- 💻 End-to-end generative AI systems
 
 </td>
 </tr>
@@ -65,57 +43,86 @@
 
 <br>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="95%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Mistral AI Q&A Agent
+LangGraph ReAct agent orchestrating 9 tools, evaluated with LangSmith (LLM-as-Judge). Diagnosed and fixed a runaway tool-call loop (832s → bounded latency).
+
+`LangGraph` `LangChain` `LangSmith` `Mistral` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌾 Agricultural Intelligence Platform
+🏆 *3rd place, national hackathon* — Sentinel-2 satellite analysis + Random Forest for olive grove classification, plus a multimodal Darija chatbot (text/voice/image) with plant disease diagnosis.
+
+`Sentinel-2` `openEO` `Groq LLaMA 3.3` `MobileNetV3` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🗃️ Text-to-SQL Agent
+LLM agent generating SQL queries and visualizations from natural language, no SQL knowledge required.
+
+`LangChain` `Gemini Flash 2.5` `SQLite` `Matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📌 More Below
+Pinned repositories on this profile hold the source for the projects above.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
 <div align="center">
-  
-### 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-maherayachi0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maherayachi0@gmail.com)
+**Agentic AI & Orchestration**
+<br>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-1C3C3C?style=flat-square" />
 
+**Generative AI & LLMs**
+<br>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" /> <img src="https://img.shields.io/badge/LLM--as--Judge-4B8BBE?style=flat-square" /> <img src="https://img.shields.io/badge/Mistral_OCR-4B8BBE?style=flat-square" /> <img src="https://img.shields.io/badge/faster--whisper-4B8BBE?style=flat-square" /> <img src="https://img.shields.io/badge/Piper_TTS-4B8BBE?style=flat-square" />
+
+**Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Random_Forest-4B8BBE?style=flat-square" /> <img src="https://img.shields.io/badge/MobileNetV3-4B8BBE?style=flat-square" />
+
+**APIs & Models**
+<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" />
+
+**Development & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=python,django,flask,spring,angular,docker,azure,git,github" />
+
+</div>
+
+<br>
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-maher.ayachi%40etudiant--isi.utm.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maher.ayachi@etudiant-isi.utm.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maher-ayachi/)
 
 </div>
 
 <br>
 
-
-<h2 align="center">💻 Tech Stack & Tools</h2>
-
 <div align="center">
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,flask,dotnet,java,python,php,cpp,c#" alt="Backend Skills" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,docker,git,github" alt="Database & Tools" />
-</p>
-
-### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,opencv,seaborn" alt="AI/ML Skills" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="kaggle" />
-</p>
-
-### 🛠️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,electron,npm" alt="Dev Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira" />
-</p>
-
-</div>
-
-<br>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
 </div>
