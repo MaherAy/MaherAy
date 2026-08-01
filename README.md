@@ -49,7 +49,7 @@ Software engineering student (ISI Ariana) specializing in <b>agentic and generat
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 Mistral AI Q&A Agent
+#### 🧠 [Mistral AI Q&A Agent](https://github.com/MaherAy/mistral-qa-agent)
 LangGraph ReAct agent orchestrating 9 tools, evaluated with LangSmith (LLM-as-Judge). Diagnosed and fixed a runaway tool-call loop (832s → bounded latency).
 
 `LangGraph` `LangChain` `LangSmith` `Mistral` `Streamlit`
@@ -60,6 +60,7 @@ LangGraph ReAct agent orchestrating 9 tools, evaluated with LangSmith (LLM-as-Ju
 #### 🌾 Agricultural Intelligence Platform
 🏆 *3rd place, national hackathon* — Sentinel-2 satellite analysis + Random Forest for olive grove classification, plus a multimodal Darija chatbot (text/voice/image) with plant disease diagnosis.
 
+[`app`](https://github.com/MaherAy/agri-platform-app) · [`backend`](https://github.com/MaherAy/agri-platform-backend)
 `Sentinel-2` `openEO` `Groq LLaMA 3.3` `MobileNetV3` `RAG`
 
 </td>
@@ -67,16 +68,18 @@ LangGraph ReAct agent orchestrating 9 tools, evaluated with LangSmith (LLM-as-Ju
 <tr>
 <td width="50%" valign="top">
 
-#### 🗃️ Text-to-SQL Agent
+#### 🗃️ [Text-to-SQL Agent](https://github.com/MaherAy/text-to-sql-agent-)
 LLM agent generating SQL queries and visualizations from natural language, no SQL knowledge required.
 
-`LangChain` `Gemini Flash 2.5` `SQLite` `Matplotlib`
+`LangChain` `Groq LLaMA 3.3` `SQLite` `Matplotlib` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📌 More Below
-Pinned repositories on this profile hold the source for the projects above.
+#### ⚙️ [MLOps Platform](https://github.com/MaherAy/mlops-platform)
+End-to-end MLOps pipeline: training, CI/CD, containerized deployment, A/B testing, drift detection and monitoring.
+
+`FastAPI` `Docker` `MLflow` `CI/CD` `Monitoring`
 
 </td>
 </tr>
