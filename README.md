@@ -25,7 +25,7 @@ Software engineering student (ISI Ariana) specializing in <b>agentic and generat
 <td valign="top" width="50%">
 
 ### 💼 Currently
-- 🤖 Generative AI pipeline for citizen case processing — Ad'Ministral (Talan)
+- 🤖 Generative AI pipeline for citizen case processing — Ad'Ministral (Talan Tunisie)
 - 🗣️ Multichannel RAG agent (web + WhatsApp) with local voice pipeline
 - 🎓 Engineering degree, AI & Data specialization — ISI Ariana
 
