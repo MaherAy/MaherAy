@@ -1,9 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Maher%20Ayachi&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Ing%C3%A9nieur%20Logiciel%20%7C%20Agentic%20%26%20Generative%20AI&descSize=18&descAlignY=55&color=gradient&animation=fadeIn" />
-</div>
+<h1 align="center">Maher Ayachi</h1>
+<p align="center"><i>Ingénieur Logiciel — Agentic &amp; Generative AI</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=650&lines=LangGraph+%26+ReAct+Agents;RAG+Pipelines+(hybrid%2C+multimodal);LLM-as-Judge+Evaluation;Looking+for+a+PFE+(end-of-studies+internship)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=650&lines=LangGraph+%26+ReAct+Agents;RAG+Pipelines+(hybrid%2C+multimodal);LLM-as-Judge+Evaluation;Looking+for+a+PFE+(end-of-studies+internship)" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -123,6 +122,4 @@ Pinned repositories on this profile hold the source for the projects above.
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
-</div>
+<p align="center"><sub>Thanks for stopping by 👋</sub></p>
